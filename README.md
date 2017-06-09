@@ -1,0 +1,1 @@
+# powermockito-local-injection
